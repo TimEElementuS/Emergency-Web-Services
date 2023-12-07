@@ -1,0 +1,124 @@
+*{
+	margin:0;
+	padding:0;
+	font-family: sans-serif;
+}
+body{
+	overflow-x: hidden;
+}
+.snowfall canvas{
+	position: absolute;
+	z-index: -1;
+}
+.snowfall .info{
+	position: absolute;
+	color: #0000ff;
+	top: 5%;
+	top: 5%;
+	left:25%;
+	text-align: center;
+	
+	box-shadow: 0px 0.5px 5px rgba(0, 0, 0, 0.9);
+	padding:0px 0px;
+}
+.snowfall .info h1{
+	font-size: 3.5em;
+	text-shadow: 0px 0.5px 5px rgba(0, 0, 0, 0.5);
+}
+.snowfall .info h2{
+	font-size: 2.5em;
+	text-shadow: 0px 0.5px 5px rgba(0, 0, 0, 0.5);
+}
+.snowfall .info p{
+	font-size: 1.5em;
+	text-shadow: 0px 0.5px 5px rgba(0, 0, 0, 0.5);
+}
+.pmenu
+{
+text-align:right;
+padding-left:10px;
+padding-right:10px;
+line-height:20px
+
+body
+{
+background-image: url("map.jfif");
+background-repeat: repeat;
+color:#303070;
+}
+.main
+{
+width:100%;
+background-color:#ffffff;
+
+}
+.header
+{
+width:100%;
+backgroundcolor:#CCCCFF;
+color: #6C6C6C;
+
+}
+
+.content
+{
+background-color: #f1f1f1;
+width:100%;
+float:left;
+}
+ p
+{
+font:11pt verdana,arial,sans-serif;
+color:#666;
+margin:10px;
+text-align:justify;
+line-height:25px;
+}
+.para2 
+{
+font:11pt verdana,arial,sans-serif;
+color:#666;
+margin:10px;
+text-align:justify;
+line-height:25px;
+}
+
+ .pmenu
+{
+text-align:right;
+padding-left:10px;
+padding-right:10px;
+line-height:20px;
+
+
+
+}
+
+.footer
+{
+background-color:#b5dcb3;
+clear:both;
+width:100%;
+}
+
+.cimg 
+{
+    width250px;
+    height 300px;
+    border-radius:100%;
+    
+}
+
+.heading
+{
+font:16pt verdana,arial,sans-serif;
+color:#006600;
+margin:10px;
+text-align:center;
+line-height:25px;
+}
+
+text-align:justify;
+padding-left:10px;
+padding-right:10px;
+line-height:20px;
